@@ -42,7 +42,7 @@ const projects = [
     {
         title: "Medical Assistant Bot",
         description: "AI-powered medical assistant with multimodal capabilities using GPT-4 Vision and RAG architecture. Features secure deployment on AWS SageMaker with FAISS vector search.",
-        tech: ["Python", "LangChain", "OpenAI GPT-4", "FAISS", "Docker", "AWS SageMaker"],
+        tech: ["Python", "LangChain", "OpenAI GPT-4", "FAISS", "Docker", "AWS SageMaker", "JUnit", "Robot Framework"],
         highlights: ["Multimodal AI (text + image)", "RAG architecture", "Enterprise deployment", "Privacy-first design"],
         github: "https://github.com/wbott/medical-assistant-bot",
         category: "Healthcare AI"
