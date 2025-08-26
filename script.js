@@ -86,6 +86,14 @@ const projects = [
         highlights: ["Multi-agent architecture", "7,225 text chunks", "Sub-second queries", "Gradio web UI"],
         github: "https://github.com/wbott/rag-movie-rec",
         category: "Conversational AI"
+    },
+    {
+        title: "MCP Postal Geocoder",
+        description: "High-performance geocoding service using US Census Bureau data with <1ms exact lookups and 100+ concurrent connection support. Complete MCP server/client implementation with 33,791 postal codes.",
+        tech: ["Python", "SQLite", "FastMCP", "Streamlit", "US Census Data"],
+        highlights: ["<1ms exact lookups", "33,791 US postal codes", "100+ concurrent connections", "Multi-platform deployment"],
+        github: "https://github.com/wbott/mcp-postal-geocoder",
+        category: "Geospatial Infrastructure"
     }
 ];
 
